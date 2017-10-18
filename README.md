@@ -1,3 +1,5 @@
+[![Documentation Status]](https://readthedocs.org/projects/spreading-dye-sampler/badge/?version=latest)]
+
 # Spreading dye sampler
 
 A Python implementation of the spreading dye sampling algorithm of
@@ -5,7 +7,8 @@ A Python implementation of the spreading dye sampling algorithm of
 This version has an extension to allow masking off of areas, and
 squeezing the dye blot against that mask.
 
-See the [API documentation]() for more details.
+See the [API documentation](http://spreading-dye-sampler.readthedocs.io/en/latest/)
+for more details.
 
 # Legal
 
