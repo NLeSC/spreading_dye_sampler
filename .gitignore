@@ -1,3 +1,6 @@
-/**/*.pyc
-/**/__pycache__
-/**/*.swp
+**/*.pyc
+**/__pycache__
+**/.*.swp
+/docs/build
+/docs/source/apidocs
+.cache
