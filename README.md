@@ -1,5 +1,5 @@
 # Spreading dye sampler
-[![Documentation Status](http://spreading-dye-sampler.readthedocs.io/en/develop/?badge=develop)](http://spreading-dye-sampler.readthedocs.io/en/develop/)
+[![Documentation Status](https://readthedocs.org/projects/spreading-dye-sampler/badge/?version=develop)](http://spreading-dye-sampler.readthedocs.io/en/develop/?badge=develop)
 
 A Python implementation of the spreading dye sampling algorithm of
 [Wang et al. (2012)](http://dx.doi.org/10.1111/j.1600-0587.2012.07786.x).
