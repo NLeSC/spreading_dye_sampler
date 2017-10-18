@@ -1,4 +1,4 @@
-[![Documentation Status]](https://readthedocs.org/projects/spreading-dye-sampler/badge/?version=latest)]
+[![Documentation Status](https://readthedocs.org/projects/spreading-dye-sampler/badge/?version=latest)]
 
 # Spreading dye sampler
 
