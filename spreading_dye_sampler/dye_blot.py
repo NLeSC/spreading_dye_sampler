@@ -82,7 +82,7 @@ def make_blot(grid_dims, cell_dims, req_num_cells, permitted=None, squeeze=False
     def _draw_neighbour():
         cells, lengths = zip(*neighbours.items())
         indices = np.arange(0, len(cells))
-        probabilities = np.asarray(lengths) / sum(lengths)
+        probabilities = np.asarray(lengths) / float(sum(lengths))
         index = choice(indices, p=probabilities)
         return cells[index]
 
