@@ -4,3 +4,6 @@
 /docs/build
 /docs/source/apidocs
 .cache
+build
+dist
+spreading_dye_sampler.egg-info
